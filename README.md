@@ -2,8 +2,8 @@
 
 I am Edward and I enjoy coding!
 
-- 🔭 I’m currently working on my own flutter application!
-- 🌱 I’m currently learning java best practices and efficient development skills!
-- 💬 Ask me about internships!
-- ⚡ Fun fact: In my free time, I enjoy rock climbing and mountain biking
+- 🔭 I’m currently working on my own ChatGPT application!
+- 🌱 I’m currently new ML and Generative AI applications
+- 💬 Ask me about trading!
+- ⚡ Fun fact: In my free time, I enjoy rock climbing, mountain biking, and cooking
 
